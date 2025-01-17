@@ -1,4 +1,4 @@
-# task2_unictive
+# Testing App
 
 A new Flutter project.
 
